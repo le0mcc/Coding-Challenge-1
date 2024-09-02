@@ -3,13 +3,12 @@
 let employeeName = "Vanessa"
 const employeeID = 1
 var isActive = true
-<<<<<<< HEAD
 
 console.log(employeeName, typeof(employeeName));
 console.log(employeeID, typeof(employeeID));
 console.log(isActive, typeof(isActive));
 
-//Task 2: Compound Data Types
+// Task 2: Compound Data Types
 
 let products = ["Pen", "Pencil", "Marker"]
 const productDetails = {
@@ -19,5 +18,21 @@ const productDetails = {
 }
 
 console.log(products, productDetails)
-=======
->>>>>>> 6cb3293d461998ac99cda4e57e26ba3e4d8a6e27
+
+// Task 3: Assignment Operators
+
+let accountBalance = 49.28
+    accountbalance *= 2
+    accountBalance += 5.99
+    accountBalance -= 5.55
+    accountBalance /= 3
+    accountBalance %= 33
+
+console.log(accountBalance);
+
+// Task 4: Comparison Operators
+
+let employeeScore1 = 9
+let employeeScore2 = 8
+
+console.log(employeeScore1 > employeeScore2);
