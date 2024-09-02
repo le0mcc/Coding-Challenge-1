@@ -3,6 +3,7 @@
 let employeeName = "Vanessa"
 const employeeID = 1
 var isActive = true
+<<<<<<< HEAD
 
 console.log(employeeName, typeof(employeeName));
 console.log(employeeID, typeof(employeeID));
@@ -18,3 +19,5 @@ const productDetails = {
 }
 
 console.log(products, productDetails)
+=======
+>>>>>>> 6cb3293d461998ac99cda4e57e26ba3e4d8a6e27
